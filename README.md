@@ -1,4 +1,5 @@
 ## Title of the Project
+####  ElectroSave : Intelligent Electronics Price Comparison & Prediction System
 ElectroSave integrates AI-driven price comparison, forecasting, and energy-aware deal evaluation for electronics shopping across retailers like Amazon, Flipkart, and Croma.​
 
 ## About
